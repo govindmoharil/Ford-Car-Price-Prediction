@@ -3,12 +3,13 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 venv/
+.venv/
 .env
 *.env
+Ford_car_price_prediction.env/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # VS Code
 .vscode/
@@ -22,11 +23,10 @@ Thumbs.db
 *.sublime-workspace
 
 # Data
-# Ignore dataset folder by default; remove this line if you want to include your Dataset in the repo
-Dataset/
+# Dataset/ is tracked for this project.
 
 # Git LFS (if you later use it)
-.gitattributes
+# .gitattributes (tracked intentionally)
 
 # Project artifacts
 *.log

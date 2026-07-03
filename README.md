@@ -1,12 +1,12 @@
 # Ford Car Price Prediction
 
-Ford Car Price Prediction — Jupyter notebook implementing a Python workflow (pandas, scikit-learn Linear Regression, seaborn, matplotlib) to explore data and predict used Ford prices from features like `year`, `mileage`, `engineSize`, `tax`, `mpg`, `model`, `transmission`, `fuelType`.
+Ford Car Price Prediction - Jupyter notebook implementing a Python workflow (pandas, scikit-learn Linear Regression, seaborn, matplotlib) to explore data and predict used Ford prices from features like `year`, `mileage`, `engineSize`, `tax`, `mpg`, `model`, `transmission`, `fuelType`.
 
 ## Contents
-- `model.ipynb` — notebook with EDA, preprocessing, and modeling
-- `Dataset/ford.csv` — dataset used for training (included)
-- `requirements.txt` — Python dependencies
-- `.gitignore`, `.gitattributes` — repository configuration
+- `model.ipynb` - notebook with EDA, preprocessing, and modeling
+- `Dataset/ford.csv` - dataset used for training (included)
+- `requirements.txt` - Python dependencies
+- `.gitignore`, `.gitattributes` - repository configuration
 
 ## Setup
 1. Create a virtual environment (recommended):
