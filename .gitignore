@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+*.sublime-project
+*.sublime-workspace
+
+# Data
+# Ignore dataset folder by default; remove this line if you want to include your Dataset in the repo
+Dataset/
+
+# Git LFS (if you later use it)
+.gitattributes
+
+# Project artifacts
+*.log
